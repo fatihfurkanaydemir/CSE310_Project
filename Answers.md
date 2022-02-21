@@ -11,3 +11,5 @@ The git pull command works to download and fetch contents from repository and up
 Q.4) What does the git clone command do ?
 This command copies a repository located on a local or remote 
 server to current directory.
+
+All the questions have been answered by 11:58.
