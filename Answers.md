@@ -5,3 +5,6 @@ We put the name of files, or directories and git automatically ignores them and 
 Q.2) What does the git add command do?
 The git add command adds a change in the working directory to the staging area.
 
+Q.3) What does the git pull command do?
+The git pull command works to download and fetch contents from repository and update the contents.
+
